@@ -160,3 +160,4 @@
 // }
 //  num = +(prompt('Digite um numero'))
 // document.write(`<br> ${num(numero)}`)
+  
